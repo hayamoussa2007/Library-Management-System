@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1748028794 source:c:\users\omarh\onedrive\desktop\code blocks\c++ project\book.cpp
+	<iostream>
+	"Book.h"
+
+1748024918 c:\users\omarh\onedrive\desktop\code blocks\c++ project\book.h
+	<string>
+
+1748088816 source:c:\users\omarh\onedrive\desktop\code blocks\c++ project\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1748090987 c:\users\omarh\onedrive\desktop\code blocks\c++ project\customer.h
+	"User.h"
+	"Book.h"
+	"Library.h"
+
+1748010601 c:\users\omarh\onedrive\desktop\code blocks\c++ project\user.h
+	<string>
+
+1748012936 source:c:\users\omarh\onedrive\desktop\code blocks\c++ project\librarian.cpp
+	"Librarian.h"
+	<iostream>
+
+1748012939 c:\users\omarh\onedrive\desktop\code blocks\c++ project\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+
+1748089269 c:\users\omarh\onedrive\desktop\code blocks\c++ project\library.h
+	<string>
+	"Book.h"
+
+1748089407 source:c:\users\omarh\onedrive\desktop\code blocks\c++ project\library.cpp
+	"Library.h"
+	<iostream>
+
+1748028504 source:c:\users\omarh\onedrive\desktop\code blocks\c++ project\main.cpp
+	<iostream>
+	<string>
+	"Library.h"
+	"Book.h"
+	"User.h"
+	"Customer.h"
+	"Librarian.h"
+
+1748085683 source:c:\users\omarh\onedrive\desktop\code blocks\c++ project\user.cpp
+	"User.h"
+

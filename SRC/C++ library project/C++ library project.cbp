@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="C++ library project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C++ library project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C++ library project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../project files/Book.cpp" />
+		<Unit filename="../project files/Book.h" />
+		<Unit filename="../project files/Customer.cpp" />
+		<Unit filename="../project files/Customer.h" />
+		<Unit filename="../project files/Librarian.cpp" />
+		<Unit filename="../project files/Librarian.h" />
+		<Unit filename="../project files/Library.cpp" />
+		<Unit filename="../project files/Library.h" />
+		<Unit filename="../project files/Main.cpp" />
+		<Unit filename="../project files/User.cpp" />
+		<Unit filename="../project files/User.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
