@@ -1,12 +1,3 @@
-Team name: Syntax Squad
-Group number: team 17
-
-Team members:
-Haya Moussa (24-101252)
-Omar Khattab (24-101227)
-Zyad Walid (24-101301)
-Kareem Salah (24-101283)
-
 User's Manual:
 
 Overview
